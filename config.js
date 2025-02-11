@@ -25,17 +25,17 @@ const CONFIG = {
             text: "DO YOU LIKE ME?",                                    // First interaction
             yesBtn: "YES",                                             // Text for "Yes" button
             noBtn: "NO",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you, silly goose."           // Secret hover message
+            secretAnswer: "I LOVE YOU, SILLY GOOSE"           // Secret hover message
         },
         second: {
-            text: "Okay fine. How much do you love me?",                          // For the love meter
+            text: "OK.. BET HOW MUCH?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine, February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "WILL YOU BE MY VALENTINE ON FEB 14TH, 2025? 🌹", // The big question!
+            yesBtn: "YES. YOU ARE A GREAT MAN.",                                             // Text for "Yes" button
+            noBtn: "BRO, GWAN"                                                 // Text for "No" button
         }
     },
 
@@ -57,9 +57,9 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
+        backgroundStart: "#3E92CC",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#18435A",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#070707",     // Button color (should stand out against the background)
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
