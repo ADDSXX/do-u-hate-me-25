@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "SHIVANI",
+    valentineName: "Shivani",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me THAAAAAT much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love me ALL THE MUCHES?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "muches. 🚀💝",              // Shows when they go past 1000%
+        normal: "likkle muches. 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
@@ -79,8 +79,8 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://youtu.be/ontWJdbLUxY?si=GKvRTnNcvNKOPLdd&t=60", // Music streaming URL
-        startText: "🎵 PLAY CHUNE",        // Button text to start music
-        stopText: "🔇 MUTE THE CHUNE, U HATE ME",         // Button text to stop music
+        startText: "🎵 PLAY THE CHUNE",        // Button text to start music
+        stopText: "🔇 I SPENT SO LONG TRYNA GET THIS TO WORK AND IT WONT, IM SORRY. JUST PRETEND ME & U BY TEMS IS PLAYING",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
